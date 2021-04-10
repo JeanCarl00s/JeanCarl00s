@@ -2,7 +2,7 @@
  
  My name is Jean Carlos, I'm from Brazil. I'm learning programming . 
  
-I am studying alone with courses like Rocketseat's Next Level Week and other courses. I want to work with that in the future developing for web and mobile devices.
+I am studying by myself with courses like Rocketseat's Next Level Week and other courses. I want to work with that in the future developing for web and mobile devices.
   
 -  👨‍🎓 I'm 17 years old
 - 📍 Louveira - SP

@@ -1,10 +1,13 @@
  # Jean Carlos
  
- My name is Jean Carlos, I'm from Brazil. I'm learning programming . 
+ 👋 Hello! My name is Jean Carlos, I'm from Brazil. I'm programming student. 
  
-I am studying by myself with courses like Rocketseat's Next Level Week and other courses. I want to work with that in the future developing for web and mobile devices.
-  
--  👨‍🎓 I'm 17 years old
+I am student of development and analysis of system. I'm looking for opportunities. 
+I like to code for mobile
+Which Technology I'm studying is Kotlin and React-Native/flutter.
+Currently I'm "Jovem Aprendiz" at Magazine Luiza.
+
+-  👨‍🎓 I'm 18 years old
 - 📍 Louveira - SP
 
 #### Where to Find me

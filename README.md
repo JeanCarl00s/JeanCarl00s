@@ -2,9 +2,9 @@
  
  👋 Hello! My name is Jean Carlos, I'm from Brazil. I'm programming student. 
  
-I am student of development and analysis of system. I'm looking for opportunities. 
-I like to code for mobile
-Which Technology I'm studying is Kotlin and React-Native/flutter.
+I am student of development and analysis of system. I'm looking for opportunities. </br>
+I like to code for mobile </br>
+Which Technology I'm studying is Kotlin, React-Native and Flutter. </br>
 Currently I'm "Jovem Aprendiz" at Magazine Luiza.
 
 -  👨‍🎓 I'm 18 years old

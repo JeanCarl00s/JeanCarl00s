@@ -5,7 +5,7 @@
 I am student of development and analysis of system. I'm looking for opportunities. </br>
 I like to code </br>
 I'm studying Python,SQL and tools to automate tasks. </br>
-Currently I'm Logistc Assistent at Magazine Luiza.
+Currently I'm Logistic Assistent at Magazine Luiza.
 
 -  👨‍🎓 I'm 19 years old
 - 📍 Louveira - SP

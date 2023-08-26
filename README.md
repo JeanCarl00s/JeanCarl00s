@@ -1,13 +1,13 @@
  # Jean Fernandes
  
- 👋 Hello! My name is Jean Carlos, I'm from Brazil. I'm programming student. 
+ 👋 Hello! My name is Jean Carlos, I'm from Brazil. 
  
 I am student of development and analysis of system. I'm looking for opportunities. </br>
-I like to code for mobile </br>
-Which Technology I'm studying is Kotlin, React-Native and Flutter. </br>
-Currently I'm "Jovem Aprendiz" at Magazine Luiza.
+I like to code </br>
+I'm studying Python,SQL and tools to automate tasks. </br>
+Currently I'm Logistc Assistent at Magazine Luiza.
 
--  👨‍🎓 I'm 18 years old
+-  👨‍🎓 I'm 19 years old
 - 📍 Louveira - SP
 
 #### Where to Find me
